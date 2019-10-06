@@ -310,6 +310,7 @@ input, textarea {
        
         <div class="copyright">
             &copy; 2019 My Blog. All rights reserved.
+            this is written by MOHIT AGARWAL.
         </div>
        
     </body>
