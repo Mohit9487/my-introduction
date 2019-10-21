@@ -179,8 +179,10 @@ input, textarea {
         <div id="header" class="section">
             <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
             <p>MOHIT AGARWAL</p>
+    <p>nirbhay singh</p>
         </div>
         <!-- header end -->
+        
        
         <!-- About Me section start -->
         <div class="section">
